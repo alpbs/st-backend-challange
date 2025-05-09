@@ -1,0 +1,2 @@
+class Gasstation < ApplicationRecord
+end
